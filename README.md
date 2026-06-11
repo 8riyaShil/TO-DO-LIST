@@ -42,8 +42,7 @@ TaskFlow is a modern and elegant task management application built with Flutter.
 ## 📂 Project Structure
 
 ```text
-lib/
-│![Uploading Screenshot 2026-06-11 115040.png…]()
+
 
 ├── main.dart
 │
