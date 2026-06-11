@@ -27,12 +27,10 @@ TaskFlow is a modern and elegant task management application built with Flutter.
 
 ## 📸 Screenshots
 
-Add your app screenshots here.
-
 ```markdown
-![Home Screen](screenshots/home.png)
-![Add Task](screenshots/add_task.png)
-![Dark Mode](screenshots/dark_mode.png)
+![Home Screen](<img width="1913" height="870" alt="Screenshot 2026-06-11 114940" src="https://github.com/user-attachments/assets/93d1ca27-ab50-447b-a763-481d8231ace9" />)
+![Add Task]<img width="1081" height="836" alt="Screenshot 2026-06-11 115040" src="https://github.com/user-attachments/assets/ca71ff9b-7afa-44ec-b45f-6e1b9f3a7b4e" />)
+![Light Mode](<img width="1918" height="892" alt="Screenshot 2026-06-11 115223" src="https://github.com/user-attachments/assets/51ba14da-dec2-4cdc-9abb-850a5ca9fa77" />)
 ```
 
 ## 🛠️ Built With
@@ -45,7 +43,8 @@ Add your app screenshots here.
 
 ```text
 lib/
-│
+│![Uploading Screenshot 2026-06-11 115040.png…]()
+
 ├── main.dart
 │
 ├── Models
